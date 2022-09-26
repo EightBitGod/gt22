@@ -1,3 +1,3 @@
 hello
-people of
+amazing people at
 devsnest
