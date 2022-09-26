@@ -1,3 +1,3 @@
 hello
-folks at
+awesome folks of
 devsnest
